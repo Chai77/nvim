@@ -108,6 +108,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'norcalli/nvim-colorizer.lua'
     " Intuitive buffer closing
     Plug 'moll/vim-bbye'
+    " onedark
+    Plug 'joshdick/onedark.vim'
     " Rainbow brackets
     " Plug 'luochen1990/rainbow'
     " Async Linting Engine
