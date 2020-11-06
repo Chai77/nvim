@@ -166,7 +166,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Plug 'romgrk/lib.kom'
     " Plug 'brooth/far.vim'
     " Debugging
-    " Plug 'puremourning/vimspector'
   endif
 
 call plug#end()
